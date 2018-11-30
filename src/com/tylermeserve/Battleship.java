@@ -1,4 +1,4 @@
-
+package  com.tylermeserve;
 /**
  * Write a description of class Battleship here.
  *
@@ -11,7 +11,7 @@ public class Battleship extends Board
     
     public String toString()
     {
-        String toReturn;
+        String toReturn = "";
         for (Tile[] row : gameboard)
         {
             for (Tile tile : row)

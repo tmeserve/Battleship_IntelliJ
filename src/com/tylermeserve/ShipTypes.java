@@ -1,4 +1,4 @@
-
+package com.tylermeserve;
 /**
  * Enumeration class ShipTypes - write a description of the enum class here
  *

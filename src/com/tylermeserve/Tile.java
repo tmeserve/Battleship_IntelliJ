@@ -1,3 +1,4 @@
+package com.tylermeserve;
 /**
  * Write a description of class Tile here.
  *

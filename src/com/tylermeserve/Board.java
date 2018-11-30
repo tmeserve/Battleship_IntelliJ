@@ -1,4 +1,4 @@
-
+package com.tylermeserve;
 /**
  * Abstract class Board - write a description of the class here
  *
